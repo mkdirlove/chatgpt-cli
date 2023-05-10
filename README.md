@@ -19,7 +19,7 @@ brew install node
 2. Start the app:
 ```shell
 export OPENAI_API_KEY=XXXXXXXX # Get from https://platform.openai.com/account/api-keys
-npx git@github.com:pathikrit/chatgpt-cli.git
+npx git@github.com:mkdirlove/chatgpt-cli.git
 ```
 
 Alternatively, you can clone and run:
